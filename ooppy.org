@@ -1704,7 +1704,7 @@ values = [1, 2, 3, 4]
 for k, v in zip(keys, values):
     print(k, v)
 
-vt = (Fasle, 3.5, 'exp')
+vt = ('Fasle', 3.5, 'exp')
 (x, y, z) = vt
 #+end_src
 
